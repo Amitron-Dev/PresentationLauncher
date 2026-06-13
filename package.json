@@ -1,12 +1,12 @@
 {
-    "name": "conflictura",
-    "preductname": "Conflictura Launcher",
-    "version": "4.0.1",
-    "description": "Conflictura modded server launcher",
+    "name": "presentation",
+    "preductname": "Presentation Launcher",
+    "version": "0.0.1",
+    "description": "Launcher moddé presentation",
     "main": "src/app.js",
-    "author": "Riptiaz/Boulldogo/Vexato/Luuxis",
-    "env": "azuriom",
-    "settings": "https://conflictura.eu",
+    "author": "Amitron",
+    "env": "panel",
+    "settings": "http://node01.amihost.fr:26099",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "build": "node build.js --obf=true --build=platform",
@@ -38,6 +38,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Riptiaz/CentralCorp-Launcher.git"
+        "url": "git+https://github.com/Amitron-Dev/PresentationLauncher.git"
     }
 }
