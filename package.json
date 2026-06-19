@@ -1,7 +1,7 @@
 {
     "name": "celestia-launcher",
     "preductname": "Celestia Launcher",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Launcher moddé du serveur Celestia",
     "main": "src/app.js",
     "author": "Amitron",
